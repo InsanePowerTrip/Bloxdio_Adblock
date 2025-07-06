@@ -1,2 +1,10 @@
-# Bloxdio_Adblock
-Allows you to bypass ads in Bloxd.io (READ README.MD)
+# Bloxdio Adblock
+Allows you to bypass ads in [bloxd.io](bloxd.io).
+
+## IMPORTANT
+I AM NOT RESPONSIBLE FOR ANY BANNING (PERMANENT OR TEMPORARY) AND THIS NOT WORKING ANYTIME IN THE FUTURE.
+
+I TESTED IT AND IT WORKED, BUT DEPENDING ON YOUR ACCOUNT, IT MIGHT NOT.
+
+## Download
+il make this later
