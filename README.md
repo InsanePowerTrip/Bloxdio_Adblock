@@ -1,5 +1,5 @@
 # Bloxdio Adblock
-Allows you to bypass ads in [bloxd.io](bloxd.io).
+Allows you to bypass ads in [bloxd.io](bloxd.io). Only works on a computer/laptop.
 
 ## IMPORTANT
 I AM NOT RESPONSIBLE FOR ANY BANNING (PERMANENT OR TEMPORARY) AND THIS NOT WORKING ANYTIME IN THE FUTURE.
