@@ -7,4 +7,4 @@ I AM NOT RESPONSIBLE FOR ANY BANNING (PERMANENT OR TEMPORARY) AND THIS NOT WORKI
 I TESTED IT AND IT WORKED, BUT DEPENDING ON YOUR ACCOUNT, IT MIGHT NOT.
 
 ## Download
-il make this later
+Open the [Latest Release](https://github.com/InsanePowerTrip/Bloxdio_Adblock/releases/latest). Follow the instructions inside it.
